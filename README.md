@@ -1,16 +1,13 @@
-# myapp
+# Projeto Jogo da Velha
 
-A new Flutter project.
+Este projeto foi criado com intuito de terminar uma tarefa do Talento Tech - PR.
+No módulo de Desenvolvimento Web, criando uma Aplicação de Jogo da Velha responsivo.
+Com possibilidade de jogar contra um amigo, ou contra a máquina.
+Desenvolvido em Flutter.
 
-## Getting Started
+# Tic-Tac-Toe Project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was created with the purpose of completing a task from Talento Tech - PR.
+In the Web Development module, creating a responsive Tic-Tac-Toe application.
+With the possibility to play against a friend or against the computer.
+Developed in Flutter.
